@@ -1,0 +1,4 @@
+2023-06-06 20:54:26 [main] INFO  TC_001_SearchProduct_test:20 - **** Starting TC_001_SearchProduct_test **** 
+2023-06-06 20:54:26 [main] INFO  TC_001_SearchProduct_test:26 -  Search IPhone
+2023-06-06 20:54:34 [main] INFO  TC_001_SearchProduct_test:29 - Clicked on Search button
+2023-06-06 20:54:50 [main] INFO  TC_001_SearchProduct_test:42 - **** Finished TC_001_AccountRegistrationTest ****
